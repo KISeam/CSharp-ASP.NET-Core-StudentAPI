@@ -1,0 +1,6 @@
+@Student_Management_Web_API__With_Swagger_UI__HostAddress = http://localhost:5125
+
+GET {{Student_Management_Web_API__With_Swagger_UI__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
