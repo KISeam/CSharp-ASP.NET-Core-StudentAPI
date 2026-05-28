@@ -113,7 +113,14 @@ dotnet run
 ## 🌐 API Base URL
 
 ```bash id="jj1m5p"
-https://localhost:5001/api/students
+http://localhost:5125/api/students
+
+```
+
+### OpenAPI Documentation
+
+```bash Scalar OpenAPI
+http://localhost:5125/scalar/v1
 ```
 
 ---
